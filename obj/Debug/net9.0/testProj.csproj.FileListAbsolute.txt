@@ -1,0 +1,14 @@
+C:\Users\tarak\OneDrive\Desktop\testProj\bin\Debug\net9.0\testProj.exe
+C:\Users\tarak\OneDrive\Desktop\testProj\bin\Debug\net9.0\testProj.deps.json
+C:\Users\tarak\OneDrive\Desktop\testProj\bin\Debug\net9.0\testProj.runtimeconfig.json
+C:\Users\tarak\OneDrive\Desktop\testProj\bin\Debug\net9.0\testProj.dll
+C:\Users\tarak\OneDrive\Desktop\testProj\bin\Debug\net9.0\testProj.pdb
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\testProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\testProj.AssemblyInfoInputs.cache
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\testProj.AssemblyInfo.cs
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\testProj.csproj.CoreCompileInputs.cache
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\testProj.dll
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\refint\testProj.dll
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\testProj.pdb
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\testProj.genruntimeconfig.cache
+C:\Users\tarak\OneDrive\Desktop\testProj\obj\Debug\net9.0\ref\testProj.dll
