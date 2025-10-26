@@ -43,3 +43,52 @@ class Average
         
     }
 }
+
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int[] values = new int[3];
+        PrimeChecker obj = new PrimeChecker();
+
+        for (int i = 0; i < 3; i++)
+        {
+            Console.Write($"Enter the {i + 1} number: ");
+            values[i] = int.Parse(Console.ReadLine());
+        }
+
+        Console.WriteLine(); // blank line for readability
+
+        for (int i = 0; i < 3; i++)
+        {
+            bool isPrime = obj.IsPrime(values[i]);
+            if (isPrime)
+                Console.WriteLine($"{values[i]} is a prime number.");
+            else
+                Console.WriteLine($"{values[i]} is not a prime number.");
+        }
+    }
+}
+
+class PrimeChecker
+{
+    public bool IsPrime(int number)
+    {
+        if (number <= 1)
+            return false;
+        if (number == 2)
+            return true;
+        if (number % 2 == 0)
+            return false;
+
+        for (int i = 3; i <= Math.Sqrt(number); i += 2)
+        {
+            if (number % i == 0)
+                return false;
+        }
+        return true;
+    }
+}
